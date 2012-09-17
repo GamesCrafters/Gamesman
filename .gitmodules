@@ -1,3 +1,18 @@
 [submodule "iGamesman"]
 	path = iGamesman
-	url = git://github.com/GamesCrafters/iGamesman.git
+	url = git@github.com:GamesCrafters/iGamesman.git
+[submodule "GamesmanRails"]
+	path = GamesmanRails
+	url = git@github.com:GamesCrafters/GamesmanRails.git
+[submodule "GamesmanClassic"]
+	path = GamesmanClassic
+	url = git@github.com:GamesCrafters/GamesmanClassic.git
+[submodule "GamesmanWeb"]
+	path = GamesmanWeb
+	url = git@github.com:GamesCrafters/GamesmanWeb.git
+[submodule "GamesmanJava"]
+	path = GamesmanJava
+	url = git@github.com:GamesCrafters/GamesmanJava.git
+[submodule "GamesmanMobile"]
+	path = GamesmanMobile
+	url = git@github.com:GamesCrafters/GamesmanMobile.git
