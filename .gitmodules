@@ -1,3 +1,3 @@
 [submodule "iGamesman"]
 	path = iGamesman
-	url = ssh://git@github.com:GamesCrafters/iGamesman.git
+	url = git://github.com/GamesCrafters/iGamesman.git
