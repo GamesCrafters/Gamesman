@@ -19,3 +19,6 @@
 [submodule "GamesmanRobot"]
 	path = GamesmanRobot
 	url = git@github.com:GamesCrafters/GamesmanRobot.git
+[submodule "Gamesman5"]
+	path = Gamesman5
+	url = git@github.com:GamesCrafters/Gamesman5.git
