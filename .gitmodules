@@ -1,24 +1,28 @@
 [submodule "iGamesman"]
 	path = iGamesman
 	url = git@github.com:GamesCrafters/iGamesman.git
-[submodule "GamesmanRails"]
-	path = GamesmanRails
-	url = git@github.com:GamesCrafters/GamesmanRails.git
+  update = merge
 [submodule "GamesmanClassic"]
 	path = GamesmanClassic
 	url = git@github.com:GamesCrafters/GamesmanClassic.git
+  update = merge
 [submodule "GamesmanWeb"]
 	path = GamesmanWeb
 	url = git@github.com:GamesCrafters/GamesmanWeb.git
+  update = merge
 [submodule "GamesmanJava"]
 	path = GamesmanJava
 	url = git@github.com:GamesCrafters/GamesmanJava.git
+  update = merge
 [submodule "GamesmanMobile"]
 	path = GamesmanMobile
 	url = git@github.com:GamesCrafters/GamesmanMobile.git
+  update = merge
 [submodule "GamesmanRobot"]
 	path = GamesmanRobot
 	url = git@github.com:GamesCrafters/GamesmanRobot.git
+  update = merge
 [submodule "Gamesman5"]
 	path = Gamesman5
 	url = git@github.com:GamesCrafters/Gamesman5.git
+  update = merge
